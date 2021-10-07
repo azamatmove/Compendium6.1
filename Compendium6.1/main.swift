@@ -87,4 +87,4 @@ while hp1 > 0 || hp2 > 0 {
     
     print()
 }
-print("Vitkas Loh")
+
